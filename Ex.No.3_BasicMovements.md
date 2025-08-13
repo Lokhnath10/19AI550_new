@@ -54,10 +54,11 @@ public class TransformOperations : MonoBehaviour
 ### Output:
 
 ##### The Cube moves from left to right continuously.
-##### The Sphere rotates around its Y-axis.
-##### The Capsule scales up and down smoothly.
+##### The Capsule rotates around its Y-axis.
+##### The Cylinder scales up and down smoothly.
 
-![exp3](https://github.com/user-attachments/assets/08e40cb2-151f-4fe8-a96f-c698ca88ec85)
+<img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/eb994498-b894-43d9-9cfc-353ec191d266" />
+
 
 
 
