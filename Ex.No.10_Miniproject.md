@@ -53,7 +53,8 @@ public class PlayerController : MonoBehaviour
 
 ```
 ### Output:
-<img width="1917" height="966" alt="Screenshot 2025-10-22 093216" src="https://github.com/user-attachments/assets/104ed015-7106-4b19-a8a9-537d44df9480" />
+<img width="894" height="421" alt="Screenshot 2025-10-24 141504" src="https://github.com/user-attachments/assets/7b4ea21e-1cfb-4ef9-b0e2-a69d62474f6d" />
+<img width="912" height="396" alt="image" src="https://github.com/user-attachments/assets/f84442e7-95ab-41b6-b1dc-5445235d17ca" />
 
 
 ### Result:
